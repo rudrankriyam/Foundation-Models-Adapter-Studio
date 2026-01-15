@@ -1,5 +1,4 @@
 # Adapter Studio
-[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Foundation-Models-Adapter-Studio&type=Date)](https://star-history.com/#rudrankriyam/Foundation-Models-Adapter-Studio&Date)
 
 
 Adapter Studio is a macOS companion app for exploring custom adapters built on top of Apple’s Foundation Models framework. 
@@ -39,3 +38,5 @@ Run the target from Xcode to open the Adapter Studio window. Import an adapter, 
 
 ## Roadmap
 Longer-term ideas—such as transcript history, diff visualizations, batch comparisons, and automation hooks—are tracked in [`AdapterStudioPlan.md`](AdapterStudioPlan.md). For now, the focus remains on delivering a frictionless side-by-side evaluation loop for adapter developers.
+
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Foundation-Models-Adapter-Studio&type=Date)](https://star-history.com/#rudrankriyam/Foundation-Models-Adapter-Studio&Date)
