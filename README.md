@@ -1,4 +1,6 @@
 # Adapter Studio
+[![Star History Chart](https://api.star-history.com/svg?repos=rudrankriyam/Foundation-Models-Adapter-Studio&type=Date)](https://star-history.com/#rudrankriyam/Foundation-Models-Adapter-Studio&Date)
+
 
 Adapter Studio is a macOS companion app for exploring custom adapters built on top of Apple’s Foundation Models framework. 
 
