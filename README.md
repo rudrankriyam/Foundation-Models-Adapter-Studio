@@ -1,5 +1,16 @@
-# Adapter Studio
+# Adapter Studio (Archived)
 
+> [!IMPORTANT]
+> Adapter Studio now lives in
+> [Foundation Models Framework Lab](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab).
+> Use the
+> [macOS Adapter Studio workspace](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/tree/main/Foundation%20Lab/AdapterStudio)
+> for side-by-side model evaluation and the
+> [`fmas` CLI](https://github.com/rudrankriyam/Foundation-Models-Framework-Lab/tree/main/Tools/AdapterStudio)
+> for adapter setup, training, generation, and export.
+>
+> This repository is retained as a read-only historical snapshot. See
+> [MIGRATION.md](MIGRATION.md) for the new paths and commands.
 
 Adapter Studio is a macOS companion app for exploring custom adapters built on top of Apple’s Foundation Models framework. 
 
